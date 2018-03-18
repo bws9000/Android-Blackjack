@@ -1,0 +1,40 @@
+
+small_chips.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+100_small
+  rotate: false
+  xy: 2, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+10_smaller
+  rotate: false
+  xy: 37, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+25_smaller
+  rotate: false
+  xy: 72, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+50_smaller
+  rotate: false
+  xy: 107, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+5_smaller
+  rotate: false
+  xy: 142, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1

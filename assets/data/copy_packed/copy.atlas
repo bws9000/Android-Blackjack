@@ -1,0 +1,89 @@
+
+copy.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackjack
+  rotate: false
+  xy: 2, 60
+  size: 322, 66
+  orig: 322, 66
+  offset: 0, 0
+  index: -1
+blackjack_smaller
+  rotate: false
+  xy: 326, 80
+  size: 222, 46
+  orig: 222, 46
+  offset: 0, 0
+  index: -1
+bust
+  rotate: false
+  xy: 550, 69
+  size: 116, 57
+  orig: 116, 57
+  offset: 0, 0
+  index: -1
+bust_small
+  rotate: false
+  xy: 668, 88
+  size: 83, 38
+  orig: 83, 38
+  offset: 0, 0
+  index: -1
+lose
+  rotate: false
+  xy: 2, 2
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+lose_small
+  rotate: false
+  xy: 753, 88
+  size: 83, 38
+  orig: 83, 38
+  offset: 0, 0
+  index: -1
+push_small
+  rotate: false
+  xy: 234, 20
+  size: 88, 38
+  orig: 88, 38
+  offset: 0, 0
+  index: -1
+twinkle_large
+  rotate: false
+  xy: 923, 77
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+twinkle_medium
+  rotate: false
+  xy: 969, 95
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+twinkle_small
+  rotate: false
+  xy: 999, 105
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+win
+  rotate: false
+  xy: 116, 3
+  size: 116, 55
+  orig: 116, 55
+  offset: 0, 0
+  index: -1
+win_small
+  rotate: false
+  xy: 838, 88
+  size: 83, 38
+  orig: 83, 38
+  offset: 0, 0
+  index: -1

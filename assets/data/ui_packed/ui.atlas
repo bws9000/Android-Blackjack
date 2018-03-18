@@ -1,0 +1,538 @@
+
+ui.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+100_small
+  rotate: false
+  xy: 321, 15
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+100glow
+  rotate: false
+  xy: 694, 2
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+10_smaller
+  rotate: false
+  xy: 356, 15
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+10glow
+  rotate: false
+  xy: 770, 2
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+25_smaller
+  rotate: false
+  xy: 391, 15
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+25glow
+  rotate: false
+  xy: 846, 2
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+50_smaller
+  rotate: false
+  xy: 426, 15
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+50glow
+  rotate: false
+  xy: 922, 2
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+5_smaller
+  rotate: false
+  xy: 461, 15
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+bet_black_box
+  rotate: false
+  xy: 496, 4
+  size: 83, 49
+  orig: 83, 49
+  offset: 0, 0
+  index: -1
+bet_tab
+  rotate: false
+  xy: 966, 78
+  size: 32, 800
+  orig: 32, 800
+  offset: 0, 0
+  index: -1
+blue_white_circle
+  rotate: false
+  xy: 808, 109
+  size: 110, 111
+  orig: 110, 111
+  offset: 0, 0
+  index: -1
+bonus-chips
+  rotate: false
+  xy: 694, 80
+  size: 232, 26
+  orig: 232, 26
+  offset: 0, 0
+  index: -1
+buy_chip_blink
+  rotate: false
+  xy: 581, 5
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+buyback1
+  rotate: false
+  xy: 2, 222
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+full_screen_shadow
+  rotate: false
+  xy: 484, 222
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+green_circle
+  rotate: false
+  xy: 694, 108
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+greenbackarrow_one
+  rotate: false
+  xy: 966, 966
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+homebutton
+  rotate: false
+  xy: 966, 908
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+peeler1
+  rotate: false
+  xy: 478, 55
+  size: 214, 165
+  orig: 214, 165
+  offset: 0, 0
+  index: -1
+settings_num_five
+  rotate: false
+  xy: 102, 12
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+settings_num_four
+  rotate: false
+  xy: 133, 12
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+settings_num_six
+  rotate: false
+  xy: 164, 12
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+settings_num_three
+  rotate: false
+  xy: 195, 12
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+settings_num_two
+  rotate: false
+  xy: 226, 12
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+settings_off
+  rotate: false
+  xy: 2, 12
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+settings_off_copy
+  rotate: false
+  xy: 257, 15
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+settings_on
+  rotate: false
+  xy: 52, 12
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+settings_on_copy
+  rotate: false
+  xy: 966, 880
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+split_back
+  rotate: false
+  xy: 2, 50
+  size: 474, 170
+  orig: 474, 170
+  offset: 0, 0
+  index: -1
+
+ui2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black_circle
+  rotate: false
+  xy: 226, 106
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1
+black_white_circle
+  rotate: false
+  xy: 340, 106
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1
+black_white_square
+  rotate: false
+  xy: 454, 106
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1
+blue_white_square
+  rotate: false
+  xy: 568, 106
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1
+c_control-panel-back
+  rotate: false
+  xy: 484, 6
+  size: 480, 98
+  orig: 480, 98
+  offset: 0, 0
+  index: -1
+green_white_circle
+  rotate: false
+  xy: 2, 104
+  size: 110, 111
+  orig: 110, 111
+  offset: 0, 0
+  index: -1
+green_white_square
+  rotate: false
+  xy: 682, 106
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1
+red_white_circle
+  rotate: false
+  xy: 114, 104
+  size: 110, 111
+  orig: 110, 111
+  offset: 0, 0
+  index: -1
+red_white_square
+  rotate: false
+  xy: 796, 106
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1
+settings_back_big
+  rotate: false
+  xy: 2, 2
+  size: 480, 100
+  orig: 480, 100
+  offset: 0, 0
+  index: -1
+splash
+  rotate: false
+  xy: 2, 217
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+table
+  rotate: false
+  xy: 484, 217
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+white_circle
+  rotate: false
+  xy: 910, 106
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1
+
+ui3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5glow
+  rotate: false
+  xy: 848, 249
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+bet_down_arrow
+  rotate: false
+  xy: 676, 2
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+bet_menu
+  rotate: false
+  xy: 698, 212
+  size: 148, 800
+  orig: 148, 800
+  offset: 0, 0
+  index: -1
+bet_menu_bigger2
+  rotate: false
+  xy: 2, 212
+  size: 346, 800
+  orig: 346, 800
+  offset: 0, 0
+  index: -1
+bet_menu_bigger2_close
+  rotate: false
+  xy: 350, 212
+  size: 346, 800
+  orig: 346, 800
+  offset: 0, 0
+  index: -1
+bet_up_arrow
+  rotate: false
+  xy: 748, 2
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+black_white_square_smaller
+  rotate: false
+  xy: 848, 661
+  size: 84, 82
+  orig: 84, 82
+  offset: 0, 0
+  index: -1
+blue_white_square_smaller
+  rotate: false
+  xy: 848, 577
+  size: 84, 82
+  orig: 84, 82
+  offset: 0, 0
+  index: -1
+c_deal
+  rotate: false
+  xy: 672, 66
+  size: 141, 77
+  orig: 141, 77
+  offset: 0, 0
+  index: -1
+c_hit
+  rotate: false
+  xy: 815, 66
+  size: 141, 77
+  orig: 141, 77
+  offset: 0, 0
+  index: -1
+c_split
+  rotate: false
+  xy: 848, 824
+  size: 141, 77
+  orig: 141, 77
+  offset: 0, 0
+  index: -1
+c_stand
+  rotate: false
+  xy: 848, 745
+  size: 141, 77
+  orig: 141, 77
+  offset: 0, 0
+  index: -1
+chips_10
+  rotate: false
+  xy: 934, 593
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: 74
+chips_100
+  rotate: false
+  xy: 934, 669
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: 74
+chips_25
+  rotate: false
+  xy: 934, 517
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: 74
+chips_5
+  rotate: false
+  xy: 934, 365
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: 74
+chips_50
+  rotate: false
+  xy: 934, 441
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: 74
+control-panel-back
+  rotate: false
+  xy: 2, 12
+  size: 480, 98
+  orig: 480, 98
+  offset: 0, 0
+  index: -1
+control-panel-back-top
+  rotate: false
+  xy: 2, 112
+  size: 480, 98
+  orig: 480, 98
+  offset: 0, 0
+  index: -1
+doubledown
+  rotate: false
+  xy: 484, 12
+  size: 94, 52
+  orig: 94, 52
+  offset: 0, 0
+  index: -1
+green_copy_back
+  rotate: false
+  xy: 484, 66
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+green_white_square_smaller
+  rotate: false
+  xy: 848, 493
+  size: 84, 82
+  orig: 84, 82
+  offset: 0, 0
+  index: -1
+more_free_games
+  rotate: false
+  xy: 820, 3
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+red_white_square_smaller
+  rotate: false
+  xy: 848, 409
+  size: 84, 82
+  orig: 84, 82
+  offset: 0, 0
+  index: -1
+settings_back_small
+  rotate: false
+  xy: 484, 145
+  size: 480, 65
+  orig: 480, 65
+  offset: 0, 0
+  index: -1
+split_button2
+  rotate: false
+  xy: 580, 12
+  size: 94, 52
+  orig: 94, 52
+  offset: 0, 0
+  index: -1
+white_square
+  rotate: false
+  xy: 848, 903
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1
+white_square_smaller
+  rotate: false
+  xy: 848, 325
+  size: 84, 82
+  orig: 84, 82
+  offset: 0, 0
+  index: -1
+
+ui4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+addingfreechips
+  rotate: false
+  xy: 2, 296
+  size: 480, 292
+  orig: 480, 292
+  offset: 0, 0
+  index: -1
+buytokens
+  rotate: false
+  xy: 2, 2
+  size: 480, 292
+  orig: 480, 292
+  offset: 0, 0
+  index: -1
+home_screen
+  rotate: false
+  xy: 2, 590
+  size: 480, 387
+  orig: 480, 387
+  offset: 0, 0
+  index: -1
