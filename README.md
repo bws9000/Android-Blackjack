@@ -7,3 +7,5 @@ I used the <a href="https://github.com/libgdx/libgdx">LibGDX</a> game engine and
 
 The graphics are mine. I used some standard graphics programs for that. I went for pure Native Java for better portability and less bugs. My goal at
 the time was to get the game done as fast as possible and slap some ads on it. I never inteded to share it.
+
+<img src="https://github.com/bws9000/Android-Blackjack/blob/master/assets/data/cards_75_packed/cards75.png?raw=true">
