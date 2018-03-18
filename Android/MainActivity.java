@@ -51,10 +51,10 @@ public class MainActivity extends AndroidApplication implements ActionResolver {
 	
 	//admob
 	private boolean enable_admob = true;
-	//private static final String AD_UNIT_ID_BANNER = "ca-app-pub-3937416148222254/6160466729";
-	private static final String AD_UNIT_ID_BANNER = "ca-app-pub-3937416148222254/2786210723";
-	//private static final String AD_UNIT_ID_INTERSTITIAL = "ca-app-pub-3937416148222254/9933458727";
-	private static final String AD_UNIT_ID_INTERSTITIAL = "ca-app-pub-3937416148222254/7495611927";
+	//private static final String AD_UNIT_ID_BANNER = "";
+	private static final String AD_UNIT_ID_BANNER = "";
+	//private static final String AD_UNIT_ID_INTERSTITIAL = "";
+	private static final String AD_UNIT_ID_INTERSTITIAL = "";
 	
 	public AdView adView;
 	public View gameView;
@@ -326,18 +326,6 @@ public class MainActivity extends AndroidApplication implements ActionResolver {
 		
 	}
 	
-	/*
-	@Override
-	public void onAdFailedToLoad(Ad arg0, AdError arg1) {
-		// TODO Auto-generated method stub
-		
-	}*/
 	
-	/*
-	@Override
-	public void onAdLoaded(Ad arg0, AdProperties arg1) {
-		// TODO Auto-generated method stub
-		
-	}*/
     
 }
