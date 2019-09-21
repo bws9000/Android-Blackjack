@@ -1,4 +1,4 @@
-# Android-Blackjack
+# Android-Blackjack Version 0.01
 
 A Blackjack game I developed for Android. You can play it on <a href="https://www.amazon.com/Burt-Wiley-Snyder-Blackjack-21/dp/B00JPVZ7C6/ref=sr_1_11?s=mobile-apps&ie=UTF8&qid=1521410538&sr=1-11&keywords=blackjack">Amazon Kindle</a>
 or <a href="https://play.google.com/store/apps/details?id=com.wileynet.blackjack">Google Play</a>.
